@@ -20,6 +20,10 @@ class ViewController: UIViewController {
         print("one other try")
         print("changes from gitHub")
     }
+    
+    func myBranch() {
+        print("added function from the branch")
+    }
 
 
 }
