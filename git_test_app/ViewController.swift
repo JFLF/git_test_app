@@ -23,6 +23,7 @@ class ViewController: UIViewController {
     
     func myBranch() {
         print("added function from the branch")
+        print("added new line")
     }
 
 
